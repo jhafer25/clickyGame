@@ -1,0 +1,15 @@
+/*author: James Hafer*/
+html {
+    background-color: #EEF2F5;
+}
+footer {
+    background: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    min-height: 100px;
+	margin-top: 30px;
+	position:relative;
+	bottom:0;
+	width: 100%;
+}
